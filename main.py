@@ -7,7 +7,7 @@ import time
 import copy
 
 gl_okno = Tk()  # создаём окно
-gl_okno.title('Шашки от YARIKO')  # заголовок окна
+gl_okno.title('Шашки от VALYAGIN')  # заголовок окна
 doska = Canvas(gl_okno, width=800, height=800, bg='#FFFFFF')
 doska.pack()
 
